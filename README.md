@@ -8,7 +8,7 @@
 
 ##### Integrantes:
 1. *Sebastian Gonzalo Vives Faus* *A01025211*
-2. *[Poner aquí Nombre y Apellidos del integrante 2]* *[Matrícula]*
+2. *Sergio Hernandez Castillo* *A01025210*
 
 ---
 ## 1. Aspectos generales
