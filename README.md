@@ -1,4 +1,4 @@
-# *[Poner aquí el Título del Proyecto]*
+# *Problema de las N Reinas*
 ---
 #### Materia: *Análisis y Diseño de Algoritmos (TC2017)*
 
@@ -7,7 +7,7 @@
 ##### Campus: *Santa Fe*
 
 ##### Integrantes:
-1. *[Poner aquí Nombre y Apellidos del integrante 1]* *[Matrícula]*
+1. *Sebastian Gonzalo Vives Faus* *A01025211*
 2. *[Poner aquí Nombre y Apellidos del integrante 2]* *[Matrícula]*
 
 ---
