@@ -47,7 +47,7 @@ Como parte de la entrega final del proyecto, se debe incluir la siguiente inform
 
 ## 2. Descripción del problema
 
-*[Incluya aquí la descripción del problema a resolver.]*
+*El problema de las N Reinas consiste en posicionar una cantidad de Reinas en un tablero de ajedrez de tal forma de que no se pueden atacar. Es decir, ninguna reina podra hacer toparse con otra al moverse horizontal/verticalmente, siguiendo las reglas del ajedrez. La cantidad de reinas depende del tamaño del tablero.*
 
 ## 3. Solución secuencial
 
