@@ -75,7 +75,7 @@ Como parte de la entrega final del proyecto, se debe incluir la siguiente inform
 
 ## 9. Guía paso a paso
 
-*[Incluya aquí la guía para la ejecución de los códigos.]*
+*Para compilar el secuencial, escriba "gcc -fopenmp NQueen-Secuencial.c -o NQueen-Secuencial" en la terminal y dentro del folder en el cual está guardado el archivo. Para correrlo, escriba "./NQueen-Secuencial <tamaño del tablero> <0 u 1 si desea imprimir los resultados como matrices>". Para compilar el paralelo, escriba "gcc -fopenmp NQueen-Paralelo.c -o NQueen-Paralelo" en la terminal y dentro del folder en el cual está guardado el archivo. Para correrlo, escriba "./NQueen-Paralelo <tamaño del tablero> <número de threads> <0 u 1 si desea imprimir los resultados como matrices>".*
 
 ## 10. Referencias
 
