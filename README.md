@@ -63,11 +63,11 @@ Como parte de la entrega final del proyecto, se debe incluir la siguiente inform
 
 ## 6. Tabla de resultados
 
-[Ver Excel en la carpeta de
+[Ver Excel en la carpeta de "docs"]
 
 ## 7. Gráfica(s) comparativa(s)
 
-*[Incluya aquí la(s) gráfica(s) comparativa(s).]*
+[Ver Excel en la carpeta de "docs"]
 
 ## 8. Interpretación de los resultados
 
