@@ -63,7 +63,7 @@ Como parte de la entrega final del proyecto, se debe incluir la siguiente inform
 
 ## 6. Tabla de resultados
 
-*[Incluya aquí la tabla con los resultados de las mediciones.]*
+[Ver Excel en la carpeta de
 
 ## 7. Gráfica(s) comparativa(s)
 
