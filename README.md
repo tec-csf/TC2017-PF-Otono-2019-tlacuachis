@@ -88,4 +88,22 @@ Como parte de la entrega final del proyecto, se debe incluir la siguiente inform
 
 ## 10. Referencias
 
-*[Incluya aquí las referencias a sitios de interés y cualquier otra información que haya utilizado para realizar el proyecto y que le puedan ser de utilidad a otras personas que quieran usarlo como referencia]*
+*Mattson, Tim & Meadows, Larry. (na). A "Hands-On" Introduction to OpenMP* [PDF file]. Retrived from https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf
+
+(n.d.). Retrieved November 24, 2019, from https://www.ibm.com/support/knowledgecenter/SSGH2K_12.1.0/com.ibm.xlc121.aix.doc/compiler_ref/ruomprun1.html.(n.d.). 
+
+Retrieved November 24, 2019, from http://jakascorner.com/blog/2016/06/omp-for-scheduling.html.(n.d.). 
+
+Retrieved November 24, 2019, from https://www.youtube.com/watch?v=wGbuCyNpxIg.Admin. (2019, October 1). OpenMP* Loop Scheduling. 
+
+Retrieved November 25, 2019, from https://software.intel.com/en-us/articles/openmp-loop-scheduling.AmirAmir 39711 gold badge33 silver badges1010 bronze badges, GillesGilles 7, & Hristo IlievHristo Iliev 58.4k99 gold badges9797 silver badges145145 bronze badges. (1966, January 1). difference between omp critical and omp single. 
+
+Retrieved November 24, 2019, from https://stackoverflow.com/questions/33441767/difference-between-omp-critical-and-omp-single.Esraa, E. E. E. (1966, February 1). Optimizing N-queen with openmp c. 
+
+Retrieved November 24, 2019, from https://stackoverflow.com/questions/34141909/optimizing-n-queen-with-openmp-c.N Queen Problem: Backtracking-3. (2019, October 16). 
+
+Retrieved November 24, 2019, from https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/.Printing all solutions in N-Queen Problem. (2019, July 19). 
+
+Retrieved November 24, 2019, from https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/.Victoraldecoa. (n.d.). victoraldecoa/N-Queens-Solver_OpenMP_Example. 
+
+Retrieved November 24, 2019, from https://github.com/victoraldecoa/N-Queens-Solver_OpenMP_Example/blob/master/src/nqueens-openmp.c.*
